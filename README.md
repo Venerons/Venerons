@@ -12,7 +12,7 @@
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=12&i=go,nim,c,lua,py,html,css,md,js,ts,wasm,bash,git,docker,kubernetes,prometheus,nodejs,deno,bun,redis,cassandra,mongodb,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?perline=7&i=js,ts,wasm,go,c,lua,py,docker,kubernetes,nodejs,postgres,sqlite,mongodb,cassandra" />
   </a>
 </p>
 
