@@ -11,9 +11,7 @@
 </p>
 
 <p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=7&i=js,ts,wasm,go,c,lua,py,docker,kubernetes,nodejs,postgres,sqlite,mongodb,cassandra" />
-  </a>
+  <img src="https://skillicons.dev/icons?perline=7&i=js,ts,wasm,go,c,lua,py,linux,bash,git,docker,kubernetes,prometheus,grafana,nodejs,deno,svelte,postgres,sqlite,mongodb,cassandra" />
 </p>
 
 <details>
