@@ -13,8 +13,3 @@
 <p align="">
   <img src="https://skillicons.dev/icons?perline=7&i=js,ts,wasm,go,c,lua,py,linux,bash,git,docker,kubernetes,prometheus,grafana,nodejs,deno,svelte,postgres,sqlite,mongodb,cassandra" />
 </p>
-
-<details>
-  <summary>GitHub Stats</summary>
-  <img src="https://github-profile-trophy.vercel.app/?username=Venerons&theme=radical&no-frame=false&no-bg=true&margin-w=4">
-</details>
